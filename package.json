@@ -1,0 +1,17 @@
+{
+    "name": "expresOsnove",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "Nenad",
+    "contributors": [],
+    "dependencies": {
+        "express": "^4.16.4",
+        "hbs": "^4.0.1"
+    }
+}
