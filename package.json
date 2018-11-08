@@ -8,6 +8,9 @@
         "client",
         "browser"
     ],
+    "scripts":{
+    "start":"node main.js"
+    },
     "author": "Nenad",
     "contributors": [],
     "dependencies": {
